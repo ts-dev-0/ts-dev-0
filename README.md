@@ -21,7 +21,7 @@ I'm a full-stack developer passionate about crafting clean, scalable web applica
 - 💡 Interested in full-stack architecture, performance optimization, and clean code
 - 📚 Always learning and experimenting with new technologies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dev-coder&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dev-0&layout=compact)
 
 ### 📈 GitHub Stats
 
