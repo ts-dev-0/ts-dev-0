@@ -20,9 +20,3 @@ I'm a full-stack developer passionate about crafting clean, scalable web applica
 - 🔭 Currently working on modern web app development using Laravel + React/Next.js
 - 💡 Interested in full-stack architecture, performance optimization, and clean code
 - 📚 Always learning and experimenting with new technologies
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ts-dev-0&layout=compact)
-
-### 📈 GitHub Stats
-
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ts-dev-0&show_icons=true&theme=tokyonight)
