@@ -26,9 +26,3 @@ I'm a full-stack developer passionate about crafting clean, scalable web applica
 ### 📈 GitHub Stats
 
 ![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ts-dev-0&show_icons=true&theme=tokyonight)
-
----
-
-### 📫 Let's connect
-
-- X: [@aoba__S](https://x.com/aoba__S)
